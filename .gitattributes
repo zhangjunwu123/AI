@@ -6,3 +6,4 @@
 06_过拟合的总结【IT学吧[[:space:]]www.itxue8.com】.mp4 filter=lfs diff=lfs merge=lfs -text
 07_岭回归_以及代码调用【IT学吧[[:space:]]www.itxue8.com】.mp4 filter=lfs diff=lfs merge=lfs -text
 README.md filter=lfs diff=lfs merge=lfs -text
+04_逻辑回归详解和应用 filter=lfs diff=lfs merge=lfs -text
