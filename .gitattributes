@@ -1,0 +1,8 @@
+01_梯度下降法思路_导函数有什么用【IT学吧[[:space:]]www.itxue8.com】.mp4 filter=lfs diff=lfs merge=lfs -text
+02_推导线性回归损失函数导函数_以及代码实现批量梯度下降【IT学吧[[:space:]]www.itxue8.com】.mp4 filter=lfs diff=lfs merge=lfs -text
+03_随机梯度下降_及代码实现_mini-batchGD_调整学习率【IT学吧[[:space:]]www.itxue8.com】.mp4 filter=lfs diff=lfs merge=lfs -text
+04_梯度下降做归一化的必要性【IT学吧[[:space:]]www.itxue8.com】.mp4 filter=lfs diff=lfs merge=lfs -text
+05_最大值最小值归一化_sklearn官网介绍_防止过拟合W越少越小【IT学吧[[:space:]]www.itxue8.com】.mp4 filter=lfs diff=lfs merge=lfs -text
+06_过拟合的总结【IT学吧[[:space:]]www.itxue8.com】.mp4 filter=lfs diff=lfs merge=lfs -text
+07_岭回归_以及代码调用【IT学吧[[:space:]]www.itxue8.com】.mp4 filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
